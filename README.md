@@ -19,7 +19,7 @@
 
 ![GitHub Repo stars](https://img.shields.io/github/stars/abdurrahman101bd/Digital-Clock?style=social) [![Topic](https://img.shields.io/badge/Topic-ALL-blue?logo=github)](https://github.com/topics/Digital) ![GitHub followers](https://img.shields.io/github/followers/abdurrahman101bd?style=social) [![GitHub](https://img.shields.io/badge/GitHub-abdurrahman101bd-181717?logo=github)](https://github.com/abdurrahman101bd)
 
-<p><img src="https://readme-typing-svg.herokuapp.com?color=FF0000&amp;center=true&amp;vCenter=true&amp;height=30&amp;lines=sic+parvis+magna" alt="Drake"></p>
+<p><img src="https://readme-typing-svg.herokuapp.com?color=FF0000&amp;center=true&amp;vCenter=true&amp;height=30&amp;lines=Abdur+Rahman" alt="Drake"></p>
   <p align="center" height="140px"> <img src="https://komarev.com/ghpvc/?username=abdurrahman101bd&amp;label=visitors&amp;color=31c442&amp;style=plastic" alt="abdurrahman101bd"></p>
  
 <img align="right" height="270px" alt="GIF" src="https://media.giphy.com/media/CVtNe84hhYF9u/giphy.gif">
