@@ -4,6 +4,7 @@
 <img alt="image header" src="https://raw.githubusercontent.com/marcos-inja/marcos-inja/main/imgs/header.png">
 
 <h1 align="center">Hi👋🏻 , I'm Abdur Rahman <img src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" width="35"></h1>
+
 <div align="center">
   
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=100&size=25&pause=1000&width=435&lines=Full-Stack+Developer;Software+Developer;Web+Developer;AI+Enthusiast;Machine+Learning+Practitioner;Data+Science+Explorer;Tech+Enthusiast;Always+learning+new+things;Deep+Learning+Developer;Lifelong+learner+and+problem+solver;Open+Source+Contributor;Passionate+about+clean+code+and+innovation;Abdur+Rahman)](https://git.io/typing-svg)
@@ -21,9 +22,9 @@
 
 <p><img src="https://readme-typing-svg.herokuapp.com?color=FF0000&amp;center=true&amp;vCenter=true&amp;height=30&amp;lines=Abdur+Rahman" alt="Drake"></p>
   <p align="center" height="140px"> <img src="https://komarev.com/ghpvc/?username=abdurrahman101bd&amp;label=visitors&amp;color=31c442&amp;style=plastic" alt="abdurrahman101bd"></p>
- 
-<img align="right" height="270px" alt="GIF" src="https://media.giphy.com/media/CVtNe84hhYF9u/giphy.gif">
-<h3>I am a Full Stack Developer</h3>
+ <p align="center">
+<img height="270px" alt="GIF" src="https://media.giphy.com/media/CVtNe84hhYF9u/giphy.gif"><p></p><br>
+
 <ul>
 <li>🚀 I’m currently working on my Portfolio Website </li>
 <li>🎓 I’m currently learning Android & Web Development</li>
