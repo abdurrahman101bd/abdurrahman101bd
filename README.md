@@ -108,9 +108,7 @@
 
   <h2>🔝 Top Contributed Repos</h2>
   <p>
-    <img alt="Top Contributed Repositories"
-      width="500px"
-      src="https://github-contributor-stats.vercel.app/api?username=abdurrahman101bd&limit=5&theme=algolia&combine_all_yearly_contributions=true"/>
+    ![](https://streak-stats.demolab.com/?user=abdurrahman101bd&theme=dark&hide_border=false)<br/>
   </p>
 </div><br>
 
