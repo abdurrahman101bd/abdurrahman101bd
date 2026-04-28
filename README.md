@@ -107,9 +107,8 @@
 <div align="center">
 
   <h2>🔝 Top Contributed Repos</h2>
-  <p>
-    ![](https://streak-stats.demolab.com/?user=abdurrahman101bd&theme=dark&hide_border=false)<br/>
-  </p>
+  ![](https://streak-stats.demolab.com/?user=abdurrahman101bd&theme=dark&hide_border=false)<br/>
+
 </div><br>
 
 <!--- snake -->
