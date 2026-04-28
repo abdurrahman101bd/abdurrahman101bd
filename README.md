@@ -104,13 +104,6 @@
 </p>
 </div><br>
 
-<div align="center">
-
-  <h2>🔝 Top Contributed Repos</h2>
-  ![](https://streak-stats.demolab.com/?user=abdurrahman101bd&theme=dark&hide_border=false)<br/>
-
-</div><br>
-
 ![](https://streak-stats.demolab.com/?user=abdurrahman101bd&theme=dark&hide_border=false)<br/>
 
 
